@@ -11,7 +11,7 @@ const bounds = [
 ];
 
 L.imageOverlay(
-    "maps/surface.png",
+    "maps/surface.webp",
     bounds
 ).addTo(map);
 
